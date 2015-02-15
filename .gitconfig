@@ -1,0 +1,19 @@
+[merge]
+	tool = kdiff3
+
+
+[diff]
+    tool = kdiff3
+ 
+[merge]
+    tool = kdiff3
+ 
+[mergetool "kdiff3"]
+    path = C:/Program Files/KDiff3/kdiff3.exe
+    keepBackup = false
+    trustExitCode = false
+ 
+[difftool "kdiff3"]
+    path = C:/Program Files/KDiff3/kdiff3.exe
+    keepBackup = false
+    trustExitCode = false
